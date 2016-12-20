@@ -3,7 +3,7 @@
 <div class="row">
 <div class="resultats index col-md-12">
     <div class="jumbotron">
-    <h3><?= __('Resultats') ?></h3>
+    <h3><?= __('Les Resultats') ?></h3>
     </div>
     <table class="table table-bordered table-hover table-condensed">
         <thead>
