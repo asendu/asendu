@@ -2,7 +2,7 @@
 <div class="row">
 <div class="evenements index col-md-12">
     <div class="jumbotron">
-    <h3><?= __('Evenements') ?></h3>
+    <h3><?= __('Les Evenements') ?></h3>
     </div>
     <table class="table table-hover">
         <thead>
